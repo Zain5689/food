@@ -528,6 +528,9 @@ main .landing button:active i  {
 .gallary .gallary-content .box .info:hover{
   opacity: 1;
 }
+.gallary .gallary-content .box .info:hover a{
+  bottom: 10px;
+}
 .gallary .gallary-content .box .info {
   position: absolute;
   left:0;
@@ -556,7 +559,7 @@ main .landing button:active i  {
 .gallary .gallary-content .box .info a {
   position: absolute;
   left: 50%;
-  bottom: 5px;
+  bottom: -100%;
   transform: translateX(-50%);
   color: #000;
   font-size: 12px;
