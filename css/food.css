@@ -286,7 +286,7 @@ main .landing button:hover{
 
 @media (max-width: 767px){
   main .landing button {
-    bottom: -120px;
+    bottom: -150px;
 }
 }
 main .landing button i {
