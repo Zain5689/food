@@ -241,7 +241,7 @@ main .landing .text {
     text-align: center;
 }
 }
-@media (max-width: 1200px){
+@media (max-width: 1300px){
 main .landing img {
     max-width: 400px;
 }
