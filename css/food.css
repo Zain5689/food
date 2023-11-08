@@ -335,6 +335,8 @@ main .landing button:active i  {
     width: 320px;
     text-align: center;
     margin-left: 1%;
+    margin-top: 36px;
+    margin-bottom: -61px;
 }
 }
 .about .text{
