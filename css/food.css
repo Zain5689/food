@@ -332,7 +332,9 @@ main .landing button:active i  {
 }
 @media (max-width: 767px){
 .about .img img {
-    width: 350px;
+    width: 330px;
+    text-align: center;
+    margin-left: 1%;
 }
 }
 .about .text{
